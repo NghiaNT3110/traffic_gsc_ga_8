@@ -5,6 +5,3 @@
 - GSC Dataset Link (Demart Dataset): [Dataset Link](https://docs.google.com/spreadsheets/d/1tJLQ_A_SNBan4ms7GuEQogrbutDxOd9FcWz1b7rtomA/edit?gid=1337403384#gid=1337403384)
 - GA4 Dataset Link (Demart Dataset): Check the csv file in this Github. Named: GA4_Data
 - Google Colab Link (Demart Dataset): https://colab.research.google.com/drive/1hJzxPYCG08_q3EXhs2oiOU64eo4oiNA6?usp=sharing
-------
-- GA4 Dataset Link (GA4 Demo Dataset): Check the csv file in this Github. Named: Still Updating
-- Google Colab Link (GA4 Demo Dataset): https://colab.research.google.com/drive/1rUHWmHX5EiGDb7QOsi83JbPr9B-zA1fL?usp=sharing
