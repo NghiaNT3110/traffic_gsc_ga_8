@@ -4,4 +4,5 @@
 - GSC Dataset Link: [Dataset Link](https://docs.google.com/spreadsheets/d/1tJLQ_A_SNBan4ms7GuEQogrbutDxOd9FcWz1b7rtomA/edit?gid=1337403384#gid=1337403384)
 - GA4 Dataset Link: Check the csv file in this Github
 
-- Google Colab Link: https://colab.research.google.com/drive/1hJzxPYCG08_q3EXhs2oiOU64eo4oiNA6?usp=sharing
+- Google Colab Link (Demart Dataset): https://colab.research.google.com/drive/1hJzxPYCG08_q3EXhs2oiOU64eo4oiNA6?usp=sharing
+- Google Colab Link (GA4 Demo Dataset): https://colab.research.google.com/drive/1rUHWmHX5EiGDb7QOsi83JbPr9B-zA1fL?usp=sharing
